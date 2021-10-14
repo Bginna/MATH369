@@ -1,2 +1,4 @@
 # MATH369
-Cryptography Assignment
+Cryptography Assignment for MATH369 - Linear Algebra 1
+
+
